@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/screen/calculator_screen.dart';
+import 'file:///F:/Proyectos/GitHub/Flutter/calculadora_flutter/flutter_app/lib/features/calculator/presentation/pages/calculator_screen.dart';
 
 void main() {
   runApp(MyApp());

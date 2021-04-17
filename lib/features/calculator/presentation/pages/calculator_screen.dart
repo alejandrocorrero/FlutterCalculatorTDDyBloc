@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/widgets/operate_group.dart';
-import 'package:flutter_app/widgets/operation_number_button.dart';
-import 'package:flutter_app/widgets/result.dart';
+import 'package:flutter_app/features/calculator/presentation/widgets/operate_group.dart';
+import 'package:flutter_app/features/calculator/presentation/widgets/result.dart';
+import 'package:flutter_app/features/calculator/presentation/widgets/operation_number_button.dart';
 
 class CalculatorScreen extends StatelessWidget {
   @override
